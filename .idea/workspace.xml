@@ -19,13 +19,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e7b5093-4748-4639-85f7-2741aa32b2a0" name="Default Changelist" comment="" />
+    <list default="true" id="3e7b5093-4748-4639-85f7-2741aa32b2a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ship_movement" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bpnhzMr0GGmRl0hagMaqlWOtmh" />
@@ -47,9 +55,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../startrek/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/startrek.py" />
@@ -63,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.startrek" />
         <item itemvalue="Python.startrek" />
       </list>
     </recent_temporary>
@@ -93,29 +102,45 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="538" y="129" width="666" height="826" key="#startrek" timestamp="1589339890931">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state x="538" y="129" width="666" height="826" key="#startrek/72.27.1608.1023@72.27.1608.1023" timestamp="1589339890931" />
     <state x="659" y="296" width="424" height="491" key="FileChooserDialogImpl" timestamp="1589338407844">
       <screen x="72" y="27" width="1608" height="1023" />
     </state>
     <state x="659" y="296" width="424" height="491" key="FileChooserDialogImpl/72.27.1608.1023@72.27.1608.1023" timestamp="1589338407844" />
-    <state width="1585" height="266" key="GridCell.Tab.0.bottom" timestamp="1589339070819">
+    <state width="1585" height="266" key="GridCell.Tab.0.bottom" timestamp="1589340010843">
       <screen x="72" y="27" width="1608" height="1023" />
     </state>
-    <state width="1585" height="266" key="GridCell.Tab.0.bottom/72.27.1608.1023@72.27.1608.1023" timestamp="1589339070819" />
-    <state width="1585" height="266" key="GridCell.Tab.0.center" timestamp="1589339070817">
+    <state width="1585" height="266" key="GridCell.Tab.0.bottom/72.27.1608.1023@72.27.1608.1023" timestamp="1589340010843" />
+    <state width="1585" height="266" key="GridCell.Tab.0.center" timestamp="1589340010842">
       <screen x="72" y="27" width="1608" height="1023" />
     </state>
-    <state width="1585" height="266" key="GridCell.Tab.0.center/72.27.1608.1023@72.27.1608.1023" timestamp="1589339070817" />
-    <state width="1585" height="266" key="GridCell.Tab.0.left" timestamp="1589339070816">
+    <state width="1585" height="266" key="GridCell.Tab.0.center/72.27.1608.1023@72.27.1608.1023" timestamp="1589340010842" />
+    <state width="1585" height="266" key="GridCell.Tab.0.left" timestamp="1589340010841">
       <screen x="72" y="27" width="1608" height="1023" />
     </state>
-    <state width="1585" height="266" key="GridCell.Tab.0.left/72.27.1608.1023@72.27.1608.1023" timestamp="1589339070816" />
-    <state width="1585" height="266" key="GridCell.Tab.0.right" timestamp="1589339070818">
+    <state width="1585" height="266" key="GridCell.Tab.0.left/72.27.1608.1023@72.27.1608.1023" timestamp="1589340010841" />
+    <state width="1585" height="266" key="GridCell.Tab.0.right" timestamp="1589340010842">
       <screen x="72" y="27" width="1608" height="1023" />
     </state>
-    <state width="1585" height="266" key="GridCell.Tab.0.right/72.27.1608.1023@72.27.1608.1023" timestamp="1589339070818" />
+    <state width="1585" height="266" key="GridCell.Tab.0.right/72.27.1608.1023@72.27.1608.1023" timestamp="1589340010842" />
+    <state x="757" y="406" width="486" height="264" key="MultipleFileMergeDialog" timestamp="1589339864623">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state x="757" y="406" width="486" height="264" key="MultipleFileMergeDialog/72.27.1608.1023@72.27.1608.1023" timestamp="1589339864623" />
     <state x="365" y="173" width="1022" height="737" key="SettingsEditor" timestamp="1589339137404">
       <screen x="72" y="27" width="1608" height="1023" />
     </state>
     <state x="365" y="173" width="1022" height="737" key="SettingsEditor/72.27.1608.1023@72.27.1608.1023" timestamp="1589339137404" />
+    <state x="647" y="453" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589339853288">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state x="647" y="453" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1608.1023@72.27.1608.1023" timestamp="1589339853288" />
+    <state x="595" y="327" width="552" height="430" key="git4idea.merge.GitMergeDialog" timestamp="1589339786456">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state x="595" y="327" width="552" height="430" key="git4idea.merge.GitMergeDialog/72.27.1608.1023@72.27.1608.1023" timestamp="1589339786456" />
   </component>
 </project>
